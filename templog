@@ -1,0 +1,12 @@
+--2018-01-29 18:28:11--  https://github.com/github/gitignore/blob/master/Python.gitignore
+Resolving github.com... 192.30.253.112, 192.30.253.113
+Connecting to github.com|192.30.253.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘.gitignore’
+
+     0K .......... .......... .......... .......... ..........  136K
+    50K .......... .......... ...                              1.28M=0.4s
+
+2018-01-29 18:28:13 (190 KB/s) - ‘.gitignore’ saved [75222]
+
